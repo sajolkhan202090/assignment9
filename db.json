@@ -1,0 +1,153 @@
+
+
+{
+    "student" : [
+        {
+            "name" : "sajol khan",
+            "age" : 24,
+            "class" : 6,
+            "roll" : 10,
+            "gendar" : "male"
+        },
+        {
+            "name" : "nahid",
+            "age" : 22,
+            "class" : 7,
+            "roll" : 20,
+            "gendar" : "male"
+        },
+        {
+            "name" : "akash",
+            "age" : 23,
+            "class" : 8,
+            "roll" : 12,
+            "gendar" : "male"
+        },
+        {
+            "name" : "tamima",
+            "age" : 19,
+            "class" : 10,
+            "roll" : 1,
+            "gendar" : "female"
+        },
+        {
+            "name" : "habiba",
+            "age" : 20,
+            "class" : 9,
+            "roll" : 5,
+            "gendar" : "female"
+        },
+        {
+            "name" : "taher",
+            "age" : 25,
+            "class" : 8,
+            "roll" : 10,
+            "gendar" : "male"
+        },
+        {
+            "name" : "sufia aktar",
+            "age" : 16,
+            "class" : 9,
+            "roll" : 15,
+            "gendar" : "female"
+        },
+        {
+            "name" : "najmul",
+            "age" : 15,
+            "class" : 6,
+            "roll" : 10,
+            "gendar" : "male"
+        },
+        {
+            "name" : "jabin",
+            "age" : 16,
+            "class" : 9,
+            "roll" : 11,
+            "gendar" : "female"
+        },
+        {
+            "name" : "nitish",
+            "age" : 25,
+            "class" : 9,
+            "roll" : 11,
+            "gendar" : "male"
+        }
+    ],
+    "techar" : [
+        {
+            "name"  : "fatima",
+            "age" : "20",
+            "gendar" : "female",
+            "location" : "dhaka"
+        
+        },
+        {
+            "name"  : "salman",
+            "age" : "22",
+            "gendar" : "male",
+            "location" : "dhaka"
+        
+        },
+        {
+            "name"  : "sakil",
+            "age" : "23",
+            "gendar" : "male",
+            "location" : "mirpur"
+        
+        },
+        {
+            "name"  : "rasel",
+            "age" : "24",
+            "gendar" : "male",
+            "location" : "banani"
+        
+        },
+        {
+            "name"  : "joheb",
+            "age" : "25",
+            "gendar" : "male",
+            "location" : "uttora"
+        
+        },
+        {
+            "name"  : "abdullha",
+            "age" : "20",
+            "gendar" : "male",
+            "location" : "badda"
+        
+        },
+        {
+            "name"  : "nayeem",
+            "age" : "22",
+            "gendar" : "male",
+            "location" : "khulna"
+        
+        },
+        {
+            "name"  : "ibrahim",
+            "age" : "24",
+            "gendar" : "male",
+            "location" : "dhaka"
+        
+        },
+        {
+            "name"  : "mamun",
+            "age" : "25",
+            "gendar" : "male",
+            "location" : "banani"
+        
+        },
+        {
+            "name"  : "foisal",
+            "age" : "20",
+            "gendar" : "male",
+            "location" : "dhaka"
+        
+        }
+    
+    
+    
+    ] 
+
+    
+}
